@@ -1,0 +1,31 @@
+h1 {
+	font-family:Garamond, Georgia, serif;
+	/*font-size: 48px;*/
+	color: #777;
+}
+
+h2 {
+	color: #838283;
+}
+
+
+
+p {
+	font-family: 'Play', sans-serif;
+	font-size: 16px;
+}
+
+#traditional {
+	font-family:Garamond, Georgia, serif;
+}
+
+#forumFont	{
+	font-family: 'Forum', cursive;
+	font-size: 18px;
+	/*font-weight: 400;*/
+}
+
+.content {
+	width: 70%;
+	margin: 0 auto; 
+}
